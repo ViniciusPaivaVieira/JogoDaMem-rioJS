@@ -1,2 +1,2 @@
-# JogoDaMem-rioJS
+# JogoDaMemoriaJS
 Jogo da Memória
